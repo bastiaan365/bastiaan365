@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hey, I'm Bastiaan 👋
 
-<!--
-**bastiaan365/bastiaan365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+bastiaan@365:~$ whoami
+```
 
-Here are some ideas to get you started:
+**IT Engineer** with 8+ years of experience in IT infrastructure, endpoint management and Microsoft 365.  
+From managing 15,000+ endpoints at KLM to healthcare IT at a leading oncology hospital — now looking for my next challenge in **Security Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 What I work with
+
+| Domain | Technologies |
+|---|---|
+| 🔧 Microsoft 365 | Intune · Entra ID · Defender · Conditional Access · Exchange Online |
+| 🛡️ Security | Suricata IDS/IPS · OPNsense · Zero Trust · GDPR · NEN 7510 · NIS2 |
+| 📊 Monitoring | Grafana · InfluxDB · Telegraf · Syslog · Alerting |
+| 🌐 Networking | VLANs · WireGuard VPN · DNS-over-TLS · DNSSEC · TCP/IP |
+| 🖥️ Infrastructure | Windows Server · Active Directory · PowerShell · SCCM/MECM · Linux |
+
+---
+
+### 🏠 Security Homelab
+
+I build and maintain a fully segmented home network as a hands-on security lab:
+
+- 🔒 **OPNsense** firewall with 7 isolated network segments
+- 🚨 **Suricata** IDS/IPS for real-time threat detection
+- 🔐 **WireGuard** VPN with kill switch and Mullvad integration
+- 📊 **TIG stack** (Telegraf, InfluxDB, Grafana) on Raspberry Pi
+- 🏡 **Home Assistant** on isolated VLAN
+- 🌐 **DNS-over-TLS** with blocklists, DNSSEC validation and Unbound
+- ⚙️ **Automated hardening** scripts with rollback capability
+
+> Full write-up and details on my website → [bastiaan365.com](https://bastiaan365.com)
+
+---
+
+### 📜 Certifications
+
+| Certification | Status |
+|---|---|
+| MD-100: Windows Client | ✅ |
+| MD-101: Managing Modern Desktops | ✅ |
+| AZ-900: Azure Fundamentals | ✅ |
+| SC-900: Security, Compliance & Identity | ✅ |
+| ITIL v4 Foundation | ✅ |
+| Lean Six Sigma Orange Belt | ✅ |
+| CompTIA Security+ | ⏳ In progress |
+
+---
+
+### 📢 Career Highlights
+
+- 🏢 **8+ years in IT** across aviation, healthcare, legal and childcare sectors
+- ✈️ **KLM** — Lifecycle management of 15,000+ Windows endpoints & 20,000+ iPads
+- 🏥 **KLM Health Services** — 3+ years as ICT consultant, NEN 7510 compliance
+- 🎓 **Aviation Engineering** background — engineering mindset in everything I do
+- 🛡️ **Security-focused** — from homelab to enterprise, security is my common thread
+
+---
+
+### 📫 Get in touch
+
+- 🌐 [bastiaan365.com](https://bastiaan365.com)
+- 💼 [LinkedIn](https://linkedin.com/in/bastiaanrusch365)
+- ✉️ bastiaan@bastiaan365.nl
+- 📍 Almere, Netherlands
