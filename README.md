@@ -4,8 +4,10 @@
 bastiaan@365:~$ whoami
 ```
 
-**IT Engineer** with 8+ years of experience in IT infrastructure, endpoint management and Microsoft 365.  
-From managing 15,000+ endpoints at KLM to healthcare IT at a leading oncology hospital — now looking for my next challenge in **Security Engineering**.
+IT Engineer with 8+ years of experience in IT infrastructure, endpoint management and Microsoft 365.  
+From managing 15,000+ endpoints at KLM to healthcare IT at a leading oncology hospital — now looking for my next challenge in Security Engineering.
+
+I'm passionate about AI-assisted workflows — I actively use AI tools to automate tasks, build documentation, and accelerate my work. This profile? Built with AI.
 
 ---
 
@@ -15,6 +17,7 @@ From managing 15,000+ endpoints at KLM to healthcare IT at a leading oncology ho
 |---|---|
 | 🔧 Microsoft 365 | Intune · Entra ID · Defender · Conditional Access · Exchange Online |
 | 🛡️ Security | Suricata IDS/IPS · OPNsense · Zero Trust · GDPR · NEN 7510 · NIS2 |
+| 🤖 AI & Automation | Claude · LLM workflows · AI-assisted development · Prompt engineering |
 | 📊 Monitoring | Grafana · InfluxDB · Telegraf · Syslog · Alerting |
 | 🌐 Networking | VLANs · WireGuard VPN · DNS-over-TLS · DNSSEC · TCP/IP |
 | 🖥️ Infrastructure | Windows Server · Active Directory · PowerShell · SCCM/MECM · Linux |
@@ -25,15 +28,26 @@ From managing 15,000+ endpoints at KLM to healthcare IT at a leading oncology ho
 
 I build and maintain a fully segmented home network as a hands-on security lab:
 
-- 🔒 **OPNsense** firewall with 7 isolated network segments
-- 🚨 **Suricata** IDS/IPS for real-time threat detection
-- 🔐 **WireGuard** VPN with kill switch and Mullvad integration
-- 📊 **TIG stack** (Telegraf, InfluxDB, Grafana) on Raspberry Pi
-- 🏡 **Home Assistant** on isolated VLAN
-- 🌐 **DNS-over-TLS** with blocklists, DNSSEC validation and Unbound
-- ⚙️ **Automated hardening** scripts with rollback capability
+- 🔒 OPNsense firewall with 7 isolated network segments
+- 🚨 Suricata IDS/IPS for real-time threat detection
+- 🔐 WireGuard VPN with kill switch and Mullvad integration
+- 📊 TIG stack (Telegraf, InfluxDB, Grafana) on Raspberry Pi
+- 🏡 Home Assistant on isolated VLAN
+- 🌐 DNS-over-TLS with blocklists, DNSSEC validation and Unbound
+- ⚙️ Automated hardening scripts with rollback capability
 
 > Full write-up and details on my website → [bastiaan365.com](https://bastiaan365.com)
+
+---
+
+### 🤖 AI & Continuous Learning
+
+I believe in learning by doing. AI is not just a tool I use — it's how I accelerate everything:
+
+- Building scripts, documentation and tooling with AI-assisted development
+- Exploring LLM integrations for IT automation and monitoring
+- Using prompt engineering to streamline daily IT operations
+- Every day I learn something new through AI — and I apply it immediately
 
 ---
 
@@ -53,11 +67,12 @@ I build and maintain a fully segmented home network as a hands-on security lab:
 
 ### 📢 Career Highlights
 
-- 🏢 **8+ years in IT** across aviation, healthcare, legal and childcare sectors
-- ✈️ **KLM** — Lifecycle management of 15,000+ Windows endpoints & 20,000+ iPads
-- 🏥 **KLM Health Services** — 3+ years as ICT consultant, NEN 7510 compliance
-- 🎓 **Aviation Engineering** background — engineering mindset in everything I do
-- 🛡️ **Security-focused** — from homelab to enterprise, security is my common thread
+- 🏢 8+ years in IT across aviation, healthcare, legal and childcare sectors
+- ✈️ KLM — Lifecycle management of 15,000+ Windows endpoints & 20,000+ iPads
+- 🏥 KLM Health Services — 3+ years as ICT consultant, NEN 7510 compliance
+- 🎓 Aviation Engineering background — engineering mindset in everything I do
+- 🛡️ Security-focused — from homelab to enterprise, security is my common thread
+- 🤖 AI-driven — actively integrating AI into my workflows and skill development
 
 ---
 
