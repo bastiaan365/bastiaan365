@@ -40,6 +40,18 @@ I build and maintain a fully segmented home network as a hands-on security lab:
 
 ---
 
+### 📂 Featured Projects
+
+| Repository | Description |
+|---|---|
+| 🏠 [homelab-infrastructure](https://github.com/bastiaan365/homelab-infrastructure) | Full homelab setup with OPNsense, Suricata IDS/IPS, 7 VLANs, WireGuard VPN and TIG monitoring |
+| 🔧 [powershell-it-toolkit](https://github.com/bastiaan365/powershell-it-toolkit) | PowerShell scripts for Windows IT: PC cleanup, AD management, Intune deployment, M365 automation |
+| 🛡️ [ubuntu-hardening-scripts](https://github.com/bastiaan365/ubuntu-hardening-scripts) | Automated security hardening for Ubuntu/Debian with CIS benchmarks and rollback capability |
+| 🌐 [dns-security-setup](https://github.com/bastiaan365/dns-security-setup) | Secure DNS with Unbound: DNS-over-TLS, DNSSEC validation, ad/malware/tracker blocklists |
+| 📊 [grafana-dashboards](https://github.com/bastiaan365/grafana-dashboards) | Custom Grafana dashboards for network traffic, Suricata alerts, DNS queries, system metrics |
+
+---
+
 ### 🤖 AI & Continuous Learning
 
 I believe in learning by doing. AI is not just a tool I use — it's how I accelerate everything:
