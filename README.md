@@ -8,6 +8,36 @@ bastiaan@365:~$ whoami
 
 I've spent most of my career managing large-scale Windows environments — 15,000+ endpoints and 20,000+ iPads at KLM, followed by healthcare IT at an oncology hospital. Currently looking for my next role in **Security Engineering**.
 
+![Security](https://img.shields.io/badge/-Security-red?style=flat)
+![AI Safety](https://img.shields.io/badge/-AI%20Safety-purple?style=flat)
+![IoT](https://img.shields.io/badge/-IoT-blue?style=flat)
+![Homelab](https://img.shields.io/badge/-Homelab-green?style=flat)
+![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-0078D4?style=flat&logo=microsoft&logoColor=white)
+
+---
+
+## 🔥 Featured Projects
+
+### Security & AI Tools
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[LLM Red Team Toolkit](https://github.com/bastiaan365/llm-red-team-toolkit)** | Automated security testing for LLM applications — 30+ attack payloads for prompt injection, jailbreaks, and data exfiltration | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **[IoT Threat Detector](https://github.com/bastiaan365/iot-threat-detector)** | ML-powered network anomaly detection for IoT devices using Isolation Forest | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
+| **[AI Agent Sandbox](https://github.com/bastiaan365/ai-agent-sandbox)** | Security sandbox for AI agents — YAML policies for file, network, and process control | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat) |
+| **[MCP IT Ops](https://github.com/bastiaan365/mcp-it-ops)** | MCP server giving Claude access to Active Directory, Intune, and M365 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/-MCP-5A45FF?style=flat) |
+| **[IoT Firmware Scanner](https://github.com/bastiaan365/iot-firmware-scanner)** | CLI tool for scanning IoT firmware for vulnerabilities, weak crypto, and CVEs | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+
+### Homelab & Infrastructure
+
+| Project | Description |
+|---------|-------------|
+| **[homelab-infrastructure](https://github.com/bastiaan365/homelab-infrastructure)** | Full network setup: OPNsense, Suricata IDS/IPS, 7 VLANs, WireGuard VPN, TIG monitoring |
+| **[grafana-dashboards](https://github.com/bastiaan365/grafana-dashboards)** | Custom Grafana dashboards for network traffic, Suricata alerts, DNS analytics |
+| **[dns-security-setup](https://github.com/bastiaan365/dns-security-setup)** | Unbound DNS with DoT, DNSSEC, and ad/malware blocklists |
+| **[ubuntu-hardening-scripts](https://github.com/bastiaan365/ubuntu-hardening-scripts)** | CIS-aligned Ubuntu/Debian hardening with rollback support |
+| **[powershell-it-toolkit](https://github.com/bastiaan365/powershell-it-toolkit)** | PowerShell scripts for Windows IT admin, Intune, and M365 |
+
 ---
 
 ### GitHub Stats
@@ -44,22 +74,6 @@ I run a segmented home network as a hands-on security lab:
 - Hardening scripts with rollback support
 
 More details at [bastiaan365.com](https://bastiaan365.com)
-
----
-
-### Projects
-
-| Repo | What it does |
-|---|---|
-| [homelab-infrastructure](https://github.com/bastiaan365/homelab-infrastructure) | Full network setup: OPNsense, Suricata, VLANs, WireGuard, TIG monitoring |
-| [powershell-it-toolkit](https://github.com/bastiaan365/powershell-it-toolkit) | PowerShell scripts for PC cleanup, AD, Intune and M365 |
-| [ubuntu-hardening-scripts](https://github.com/bastiaan365/ubuntu-hardening-scripts) | Ubuntu/Debian hardening based on CIS benchmarks, with rollback |
-| [dns-security-setup](https://github.com/bastiaan365/dns-security-setup) | Unbound config with DNS-over-TLS, DNSSEC and blocklists |
-| [grafana-dashboards](https://github.com/bastiaan365/grafana-dashboards) | Dashboards for network traffic, Suricata alerts, DNS stats |
-| [iot-threat-detector](https://github.com/bastiaan365/iot-threat-detector) | ML-powered IoT network anomaly detection with Isolation Forest engine |
-| [iot-firmware-scanner](https://github.com/bastiaan365/iot-firmware-scanner) | CLI tool for scanning IoT firmware for vulnerabilities, weak crypto and CVEs |
-| [llm-red-team-toolkit](https://github.com/bastiaan365/llm-red-team-toolkit) | Automated security testing of LLM applications: prompt injection, jailbreak, data exfil |
-| [ai-agent-sandbox](https://github.com/bastiaan365/ai-agent-sandbox) | Security sandbox for AI agents with YAML-based policy control |
 
 ---
 
