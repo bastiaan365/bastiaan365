@@ -6,10 +6,7 @@
 bastiaan@365:~$ whoami
 ```
 
-From managing 15,000+ endpoints at KLM to healthcare IT at a leading oncology hospital --
-now pursuing my next step in **Security Engineering**.
-
-I actively use AI-assisted workflows to automate tasks, build documentation and accelerate delivery.
+I've spent most of my career managing large-scale Windows environments — 15,000+ endpoints and 20,000+ iPads at KLM, followed by healthcare IT at an oncology hospital. Currently looking for my next role in **Security Engineering**.
 
 ---
 
@@ -22,64 +19,62 @@ I actively use AI-assisted workflows to automate tasks, build documentation and 
 
 ---
 
-### Skills & Technologies
+### What I work with
 
-| Domain | Technologies |
+| Area | Tools & tech |
 |---|---|
 | Microsoft 365 | Intune, Entra ID, Defender, Conditional Access, Exchange Online |
 | Security | Suricata IDS/IPS, OPNsense, Zero Trust, GDPR, NEN 7510, NIS2 |
-| AI & Automation | Claude, LLM workflows, AI-assisted development, Prompt engineering |
-| Monitoring | Grafana, InfluxDB, Telegraf, Syslog, Alerting |
+| Monitoring | Grafana, InfluxDB, Telegraf, Syslog |
 | Networking | VLANs, WireGuard VPN, DNS-over-TLS, DNSSEC, TCP/IP |
 | Infrastructure | Windows Server, Active Directory, PowerShell, SCCM/MECM, Linux |
 
 ---
 
-### Security Homelab
+### Homelab
 
-A fully segmented home network serving as a hands-on security lab:
+I run a segmented home network as a hands-on security lab:
 
-- OPNsense firewall with 7 isolated network segments
-- Suricata IDS/IPS for real-time threat detection
-- WireGuard VPN with kill switch and Mullvad integration
-- TIG stack (Telegraf, InfluxDB, Grafana) on Raspberry Pi
-- Home Assistant on isolated VLAN
-- DNS-over-TLS with blocklists, DNSSEC validation and Unbound
-- Automated hardening scripts with rollback capability
+- OPNsense firewall with 7 VLANs
+- Suricata IDS/IPS for threat detection
+- WireGuard VPN (Mullvad, kill switch)
+- TIG stack (Telegraf + InfluxDB + Grafana) on a Raspberry Pi
+- Home Assistant on its own VLAN
+- DNS-over-TLS via Unbound with DNSSEC and blocklists
+- Hardening scripts with rollback support
 
-Full write-up at [bastiaan365.com](https://bastiaan365.com)
+More details at [bastiaan365.com](https://bastiaan365.com)
 
 ---
 
-### Featured Projects
+### Projects
 
-| Repository | Description |
+| Repo | What it does |
 |---|---|
-| [homelab-infrastructure](https://github.com/bastiaan365/homelab-infrastructure) | Full homelab setup: OPNsense, Suricata IDS/IPS, 7 VLANs, WireGuard VPN, TIG monitoring |
-| [powershell-it-toolkit](https://github.com/bastiaan365/powershell-it-toolkit) | PowerShell scripts for Windows IT -- PC cleanup, AD management, Intune deployment, M365 automation |
-| [ubuntu-hardening-scripts](https://github.com/bastiaan365/ubuntu-hardening-scripts) | Automated Ubuntu/Debian hardening aligned to CIS benchmarks with rollback capability |
-| [dns-security-setup](https://github.com/bastiaan365/dns-security-setup) | Secure DNS with Unbound: DNS-over-TLS, DNSSEC validation, ad/malware/tracker blocklists |
-| [grafana-dashboards](https://github.com/bastiaan365/grafana-dashboards) | Custom Grafana dashboards for network traffic, Suricata alerts, DNS queries, system metrics |
+| [homelab-infrastructure](https://github.com/bastiaan365/homelab-infrastructure) | Full network setup: OPNsense, Suricata, VLANs, WireGuard, TIG monitoring |
+| [powershell-it-toolkit](https://github.com/bastiaan365/powershell-it-toolkit) | PowerShell scripts for PC cleanup, AD, Intune and M365 |
+| [ubuntu-hardening-scripts](https://github.com/bastiaan365/ubuntu-hardening-scripts) | Ubuntu/Debian hardening based on CIS benchmarks, with rollback |
+| [dns-security-setup](https://github.com/bastiaan365/dns-security-setup) | Unbound config with DNS-over-TLS, DNSSEC and blocklists |
+| [grafana-dashboards](https://github.com/bastiaan365/grafana-dashboards) | Dashboards for network traffic, Suricata alerts, DNS stats |
 
 ---
 
 ### Certifications
 
-**Completed:** MD-100 (Windows Client) | MD-101 (Managing Modern Desktops) | AZ-900 (Azure Fundamentals) | SC-900 (Security, Compliance & Identity) | ITIL v4 Foundation | Lean Six Sigma Orange Belt
-
-**In progress:** CompTIA Security+
-
----
-
-### Career Highlights
-
-- **KLM** -- Lifecycle management of 15,000+ Windows endpoints and 20,000+ iPads
-- **KLM Health Services** -- 3+ years as ICT consultant, NEN 7510 compliance
-- Aviation Engineering background -- engineering mindset applied to IT and security
-- 8+ years spanning aviation, healthcare, legal and childcare sectors
+**Done:** MD-100, MD-101, AZ-900, SC-900, ITIL v4, Lean Six Sigma Orange Belt  
+**Working on:** CompTIA Security+
 
 ---
 
-### Contact
+### Background
+
+- **KLM** — Managed 15,000+ Windows endpoints and 20,000+ iPads
+- **KLM Health Services** — 3+ years ICT consulting, NEN 7510 compliance
+- Started in aviation engineering — that mindset stuck
+- 8+ years across aviation, healthcare, legal and childcare
+
+---
+
+### Get in touch
 
 [bastiaan365.com](https://bastiaan365.com) | [LinkedIn](https://linkedin.com/in/bastiaanrusch365) | bastiaan@bastiaan365.nl | Almere, Netherlands
