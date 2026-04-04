@@ -56,6 +56,10 @@ More details at [bastiaan365.com](https://bastiaan365.com)
 | [ubuntu-hardening-scripts](https://github.com/bastiaan365/ubuntu-hardening-scripts) | Ubuntu/Debian hardening based on CIS benchmarks, with rollback |
 | [dns-security-setup](https://github.com/bastiaan365/dns-security-setup) | Unbound config with DNS-over-TLS, DNSSEC and blocklists |
 | [grafana-dashboards](https://github.com/bastiaan365/grafana-dashboards) | Dashboards for network traffic, Suricata alerts, DNS stats |
+| [iot-threat-detector](https://github.com/bastiaan365/iot-threat-detector) | ML-powered IoT network anomaly detection with Isolation Forest engine |
+| [iot-firmware-scanner](https://github.com/bastiaan365/iot-firmware-scanner) | CLI tool for scanning IoT firmware for vulnerabilities, weak crypto and CVEs |
+| [llm-red-team-toolkit](https://github.com/bastiaan365/llm-red-team-toolkit) | Automated security testing of LLM applications: prompt injection, jailbreak, data exfil |
+| [ai-agent-sandbox](https://github.com/bastiaan365/ai-agent-sandbox) | Security sandbox for AI agents with YAML-based policy control |
 
 ---
 
