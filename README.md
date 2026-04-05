@@ -14,23 +14,19 @@ I've spent most of my career managing large-scale Windows environments — 15,00
 
 **Security & AI**
 
-| Repo | What it does |
-|---|---|
-| [llm-red-team-toolkit](https://github.com/bastiaan365/llm-red-team-toolkit) | CLI for red-teaming LLM applications — prompt injection, jailbreaks, data exfiltration |
-| [iot-threat-detector](https://github.com/bastiaan365/iot-threat-detector) | Anomaly detection for IoT traffic using Isolation Forest and packet capture |
-| [ai-agent-sandbox](https://github.com/bastiaan365/ai-agent-sandbox) | Security sandbox for AI agents with YAML-based allow/deny policies |
-| [mcp-it-ops](https://github.com/bastiaan365/mcp-it-ops) | MCP server connecting Claude to Active Directory, Intune, and M365 |
-| [iot-firmware-scanner](https://github.com/bastiaan365/iot-firmware-scanner) | CLI tool for scanning IoT firmware for weak crypto, hardcoded secrets, and CVEs |
+- **[llm-red-team-toolkit](https://github.com/bastiaan365/llm-red-team-toolkit)** — Built this after realising how easy it was to get models to leak system prompts. Tests prompt injection, jailbreaks, and data exfiltration against any OpenAI-compatible endpoint.
+- **[iot-threat-detector](https://github.com/bastiaan365/iot-threat-detector)** — Runs Isolation Forest on live packet captures to spot devices behaving strangely. Low overhead and doesn't rely on signatures.
+- **[ai-agent-sandbox](https://github.com/bastiaan365/ai-agent-sandbox)** — Sandboxing layer for LangChain agents. YAML policies define what the agent can touch on the filesystem, network, and process level.
+- **[mcp-it-ops](https://github.com/bastiaan365/mcp-it-ops)** — Gives Claude real access to Active Directory, Intune, and M365 via MCP. Handy for IT tasks without writing one-off scripts.
+- **[iot-firmware-scanner](https://github.com/bastiaan365/iot-firmware-scanner)** — Pulls apart firmware images to check for weak crypto, hardcoded credentials, and known CVEs. Started this while doing IoT security research.
 
 **Homelab**
 
-| Repo | What it does |
-|---|---|
-| [homelab-infrastructure](https://github.com/bastiaan365/homelab-infrastructure) | Full network setup: OPNsense, Suricata, 7 VLANs, WireGuard, TIG monitoring |
-| [grafana-dashboards](https://github.com/bastiaan365/grafana-dashboards) | Dashboards for network traffic, Suricata alerts, DNS stats |
-| [dns-security-setup](https://github.com/bastiaan365/dns-security-setup) | Unbound with DNS-over-TLS, DNSSEC, and blocklists |
-| [ubuntu-hardening-scripts](https://github.com/bastiaan365/ubuntu-hardening-scripts) | Ubuntu/Debian hardening based on CIS benchmarks, with rollback |
-| [powershell-it-toolkit](https://github.com/bastiaan365/powershell-it-toolkit) | PowerShell scripts for Windows IT admin, Intune and M365 |
+- **[homelab-infrastructure](https://github.com/bastiaan365/homelab-infrastructure)** — The full setup: OPNsense, Suricata IDS/IPS, 7 VLANs, WireGuard VPN, and TIG monitoring stack.
+- **[grafana-dashboards](https://github.com/bastiaan365/grafana-dashboards)** — Dashboards for my own network: Suricata alerts, DNS queries by type, traffic per VLAN.
+- **[dns-security-setup](https://github.com/bastiaan365/dns-security-setup)** — Unbound resolver with DNS-over-TLS upstream, DNSSEC validation, and blocklists for malware and ads.
+- **[ubuntu-hardening-scripts](https://github.com/bastiaan365/ubuntu-hardening-scripts)** — CIS-aligned hardening for Ubuntu/Debian with rollback built in so I don't lock myself out.
+- **[powershell-it-toolkit](https://github.com/bastiaan365/powershell-it-toolkit)** — Scripts accumulated over years of managing Windows environments, Intune, and M365.
 
 ---
 
