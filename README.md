@@ -61,7 +61,7 @@ More details at [bastiaan365.com](https://bastiaan365.com)
 | [llm-red-team-toolkit](https://github.com/bastiaan365/llm-red-team-toolkit) | Automated security testing of LLM applications: prompt injection, jailbreak, data exfil |
 | [ai-agent-sandbox](https://github.com/bastiaan365/ai-agent-sandbox) | Security sandbox for AI agents with YAML-based policy control |
 | [mcp-it-ops](https://github.com/bastiaan365/mcp-it-ops) | MCP server for IT ops: query AD, manage Intune, check M365 health directly from Claude *(coming soon)* |
-| [job-agent](https://github.com/bastiaan365/Job-Agent) | Smart job matching system: CV analysis, vacancy scoring, application drafting *(coming soon)* |
+| [job-agent](https://github.com/bastiaan365/Job-Agent) | Smart job matching system: CV analysis, vacancy scoring, application drafting (Streamlit GUI + standalone .exe, 51 tests) |
 
 ---
 
