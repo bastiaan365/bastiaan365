@@ -60,7 +60,7 @@ More details at [bastiaan365.com](https://bastiaan365.com)
 | [iot-firmware-scanner](https://github.com/bastiaan365/iot-firmware-scanner) | CLI tool for scanning IoT firmware for vulnerabilities, weak crypto and CVEs |
 | [llm-red-team-toolkit](https://github.com/bastiaan365/llm-red-team-toolkit) | Automated security testing of LLM applications: prompt injection, jailbreak, data exfil |
 | [ai-agent-sandbox](https://github.com/bastiaan365/ai-agent-sandbox) | Security sandbox for AI agents with YAML-based policy control |
-| [mcp-it-ops](https://github.com/bastiaan365/mcp-it-ops) | MCP server exposing homelab + IT-ops tools to Claude (v0.0.1: system health, Grafana alerts; tools added one at a time with tests) |
+| [mcp-it-ops](https://github.com/bastiaan365/mcp-it-ops) | MCP server exposing homelab + IT-ops tools to Claude (v0.0.3: 5 tools — system health, Grafana alerts, freqtrade bots, container status, Loki logs; CI on Python 3.10/3.11/3.12) |
 | [job-agent](https://github.com/bastiaan365/Job-Agent) | Smart job matching system: CV analysis, vacancy scoring, application drafting (Streamlit GUI + standalone .exe, 51 tests) |
 
 ---
